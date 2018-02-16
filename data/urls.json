@@ -488,5 +488,11 @@
       "match": "creep.im",
       "title": "Creep.im",
       "onion": "https://creep7nissfumwyx.onion/"
+    },
+    {
+      "match": "b-ok.org",
+      "title": "BookOk",
+      "onion": "http://zlibraryexau2g3p.onion/"
     }
+    
 ]
